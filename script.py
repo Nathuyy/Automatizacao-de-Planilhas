@@ -10,7 +10,7 @@ codigos = {
     'Encargos Funcionários - Assist. Médica e Odontol.' : 2136,
     'serviços prestados PJ': 4026,
     'Manutenção e Conservação da Sede': 1473,
-    'Antecipação de Lucros' : 8096,
+    'Antecipação de Lucros' : 4167,
     'Confraternizações' : 80364,
     'Despesas Bancárias' : 2593, 
     'Estágios' : 293,
